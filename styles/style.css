@@ -1,0 +1,32 @@
+body{
+    background-color: pink;
+    background-image: url(https://media.wired.com/photos/592715e2cfe0d93c474324eb/3:2/w_2560%2Cc_limit/PowerpuffGirls.jpg);
+    color: brown;
+}
+
+p{
+    color: yellow;
+    background-color: blueviolet;
+    text-align: center;
+}
+
+p:hover{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+
+img{
+    height: 120px;
+}
+
+.box{
+    background-color: white;
+    padding: 20px;
+    margin-left: 80px;
+    margin-right: 120px;
+}
+
+table{
+    background-color: aliceblue;
+}
